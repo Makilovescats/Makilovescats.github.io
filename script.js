@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: "Private Message Sender",
             description: "A simple website i made that will send a message to me via discord webhook, please dont spam it <3",
-            link: "#"
+            link: "./message-sender/index.html"  // Link to the subdirectory
         }
     ];
 
